@@ -7,3 +7,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] the first task
+- [ ] A pretty boring second task
+- [ ] an optional third task
+- [ ] a super fun final task
